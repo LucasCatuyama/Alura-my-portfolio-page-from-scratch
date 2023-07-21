@@ -8,6 +8,8 @@
 
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secudaria: 'Montserrat', sans-serif;
+
+    --tamanho-fonte-padrao: 1.5rem;
 }
 
 *{
@@ -33,7 +35,7 @@ body {
 .cabecalho__menu__link{
     font-family: var(--fonte-secudaria);
     font-weight: 600;
-    font-size: 24px;
+    font-size: var(--tamanho-fonte-padrao);
     color: var(--cor-terciaria);
     text-decoration: none;
 }
@@ -43,36 +45,31 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 82px;
 }
 
 .titulo-destaque {
     color: var(--cor-terciaria);
 }
 .apresentacao__conteudo {
-    width: 700px;
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 40px;
 }
 
 .apresentacao__conteudo__titulo{ 
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: var(--fonte-primaria);
 }
 
 .apresentacao__conteudo__texto{
-    font-size: 24px;
+    font-size: var(--tamanho-fonte-padrao);
     font-weight: 400;
     font-family: var(--fonte-secudaria);
 }
 
-.apresentacao__foto-do-perfil{
-    max-width: 488px;
-    max-height: 550px;
-    width: auto;
-    height: auto;
-    border-radius: 16px;
-}
+
 
 .apresentacao__links{
     display: flex;
@@ -85,11 +82,11 @@ body {
 .apresentacao__links__subtitulo{
     font-family: var(--fonte-);
     font-weight: 400;
-    font-size: 24px;
+    font-size: var(--tamanho-fonte-padrao);
 }
 
-.apresentacao__links__link{
-    width: 280px;
+.apresentacao__links__navegacao{
+    width: 50%;
     text-align: center;
     border-radius: 8px;
     font-size: 20px;
@@ -104,17 +101,41 @@ body {
     gap: 16px;
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--cor-hover);
 }
 
+.apresentacao__foto-de-perfil{
+    width: 32%;
+    border-radius: 16px;
+
+}
 .rodape {
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     padding: 24px;
     text-align: center;
-    font-size: 24px;
+    font-size: var(--tamanho-fonte-padrao);
     font-family: var(--fonte-secudaria);
     font-weight: 400;
+}
+
+@media  (max-width: 1200px) { 
+    
+    .cabecalho {
+        padding: 10%;
+    }
+
+    .cabecalho__menu {
+        justify-content: center;
+
+    }
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+    .apresentacao__conteudo {
+        width: auto;
+    }
 
 }
