@@ -17,7 +17,7 @@ Through this training, the project aims to teach basic web development concepts,
 
 ![image](https://github.com/LucasCatuyama/alura-projeto-frontend/assets/67424170/cb6f39ce-b97f-4f70-a5af-4ee0ee2f0f02)
 
-Check it out on Vercel 👉 https://alura-my-portfolio-page-from-scratch.vercel.app/
+Check it out on Vercel 👉 https://alura-my-portfolio-page-from-scratch.vercel.app/ <br>
 Check it out on Github Pages 👉 https://lucascatuyama.github.io/Alura-my-portfolio-page-from-scratch/
 
 
