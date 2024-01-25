@@ -1,3 +1,5 @@
+[![Idioma: Português](https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green.svg)](README-pt.md)
+
 # Sobre este projeto
 
 Este é um projeto de front-end desenvolvido durante a formação "A partir do zero: HTML e CSS para projetos web" oferecida pela Alura, lecionado por Guilherme Lima e @rafaballerini.
