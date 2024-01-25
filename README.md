@@ -4,7 +4,7 @@ LEIA EM PORTUGUÊS 👉 [README_pt-br.md](https://github.com/LucasCatuyama/alura
 
 # About this project
 
-This is the frist front-end project developed during the "From Scratch: HTML and CSS for Web Projects" training offered by Alura, taught by Guilherme Lima and @rafaballerini.
+This is the frist front-end project developed during the "From Scratch: HTML and CSS for Web Projects" training offered by Alura, taught by Guilherme Lima, @rafaballerini and @MonicaHillman.
 
 ## Objective
 Through this training, the project aims to teach basic web development concepts, focusing on HTML and CSS, through a didactic approach that encourages hands-on practice from the very first lesson.
