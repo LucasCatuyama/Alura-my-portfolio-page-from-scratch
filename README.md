@@ -64,3 +64,4 @@ Veja no Vercel 👉 https://alura-projeto-frontend.vercel.app/
 - Upload do projeto no ar usando GitHub Pages ou Vercel.
 
 ## Licença
+MIT License
