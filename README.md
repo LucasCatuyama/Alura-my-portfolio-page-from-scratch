@@ -1,4 +1,4 @@
-[![Language: English](https://img.shields.io/badge/Language-English-blue.svg)](README-en.md)
+[![Language: English](https://img.shields.io/badge/Language-English-blue.svg)]
 
 LEIA EM PORTUGUÊS 👉 [README_pt-br.md](https://github.com/LucasCatuyama/alura-projeto-frontend/blob/main/README_pt-br.md)
 
