@@ -14,7 +14,7 @@ Por meio desta formação, este projeto visa ensinar conceitos básicos do desen
 
 ![image](https://github.com/LucasCatuyama/alura-projeto-frontend/assets/67424170/cb6f39ce-b97f-4f70-a5af-4ee0ee2f0f02)
 
-Veja no Vercel 👉 [https://alura-projeto-frontend.vercel.app/](https://alura-my-portfolio-page-from-scratch.vercel.app/)
+Veja no Vercel 👉 https://alura-my-portfolio-page-from-scratch.vercel.app/
 
 ## Lista dos cursos concluídos para este projeto:
 1. HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
