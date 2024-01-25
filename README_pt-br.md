@@ -2,7 +2,7 @@
 
 # Sobre este projeto
 
-Este é o primeiro projeto de front-end desenvolvido durante a formação "A partir do zero: HTML e CSS para projetos web" oferecida pela Alura, lecionado por Guilherme Lima e @rafaballerini.
+Este é o primeiro projeto de front-end desenvolvido durante a formação "A partir do zero: HTML e CSS para projetos web" oferecida pela Alura, lecionado por Guilherme Lima, @rafaballerini e @MonicaHillman.
 
 ## Objetivo
 Por meio desta formação, este projeto visa ensinar conceitos básicos do desenvolvimento web, com enfoque no HTML e CSS, atráves de uma didática que incentiva a prática desde a primeira aula.
