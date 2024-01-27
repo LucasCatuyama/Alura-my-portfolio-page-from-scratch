@@ -70,5 +70,3 @@ Check it out on Github Pages 👉 https://lucascatuyama.github.io/Alura-my-portf
 - Creation of the repository on GitHub.
 - Uploading the project online using GitHub Pages or Vercel.
 
-## License
-MIT License
