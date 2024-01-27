@@ -66,6 +66,3 @@ Veja no Github Pages 👉 https://lucascatuyama.github.io/Alura-my-portfolio-pag
 ### Publicação no GitHub e Finalização do Projeto:
 - Criação do repositório no GitHub.
 - Upload do projeto no ar usando GitHub Pages ou Vercel.
-
-## Licença
-MIT License
