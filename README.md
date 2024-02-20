@@ -9,7 +9,7 @@ This is the frist front-end project developed during the "From Scratch: HTML and
 ## Objective
 Through this training, the project aims to teach basic web development concepts, focusing on HTML and CSS, through a didactic approach that encourages hands-on practice from the very first lesson.
 
-## Project Status
+## Project Status 
 ✔️ Completed
 
 ## Final Result
